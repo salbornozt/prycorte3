@@ -5,8 +5,8 @@
  */
 
 
-require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Persistencia/Util/Conexion.php';
-require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Persistencia/TipoTarjetaDAO.php';
+require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/persistencia/Util/Conexion.php';
+require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/persistencia/TipoTarjetaDAO.php';
 
 
 class ManejoTipo_tarjeta

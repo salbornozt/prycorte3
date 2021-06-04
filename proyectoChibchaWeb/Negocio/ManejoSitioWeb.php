@@ -5,7 +5,7 @@
  */
 /**require_once ("/home/u999386215/public_html/proyectoLibreria/Persistencia/ArticleDAO.php");
     require_once ("/home/u999386215/public_html/proyectoLibreria/Persistencia/Util/Conexion.php");*/
-require_once ('/app/proyectoChibchaWeb/persistencia/Util/Conexion.php';
+require_once '/app/proyectoChibchaWeb/persistencia/Util/Conexion.php';
 require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/persistencia/SitioWebDAO.php';
 
 

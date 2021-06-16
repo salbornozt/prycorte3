@@ -167,6 +167,9 @@
           <h2>Sobre nosotros</h2>
           <p>ChibchaWeb es el mejor servicio de hospedaje de páginas Web para Colombia con millones de usuarios inteligentes, quienes realmente aman ahorrar sin perder características Premium, es ideal para crear páginas web.</p>
         </div>
+        <?php
+          echo $_SERVER["DOCUMENT_ROOT"];
+        ?>
       </div>
     </section><!-- End About Us Section -->
 
@@ -254,6 +257,9 @@
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
             <div class="box featured">
+            <?php 
+            	echo "string";
+            ?>
               <h3>Platino</h3>
               <h4><sup>COP</sup>25 000<span> / mes</span></h4>
               <ul>

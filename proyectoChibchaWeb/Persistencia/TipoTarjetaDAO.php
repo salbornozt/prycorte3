@@ -148,4 +148,3 @@ class TipoTarjetaDAO implements DAO
         return self::$tipoTarjetaDAO;
     }
 }
-?>

@@ -107,7 +107,6 @@ $_SESSION['pack']=$_GET['pack'];
         <div class="section-title">
           <h2>Dominios </h2>
           <p>Consulte su dominio.</p>
-          <?php echo $_SERVER["DOCUMENT_ROOT"] ?>
         </div>
 
         <div class="row">

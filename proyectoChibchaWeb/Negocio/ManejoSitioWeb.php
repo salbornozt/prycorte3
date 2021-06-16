@@ -4,8 +4,8 @@
  * Import classes
  */
 
-require_once $_SERVER["DOCUMENT_ROOT"] . '/app/proyectoChibchaWeb/persistencia/Util/Conexion.php';
-require_once $_SERVER["DOCUMENT_ROOT"] . '/proyectoChibchaWeb/persistencia/SitioWebDAO.php';
+require_once $_SERVER["DOCUMENT_ROOT"] . '/app/proyectoChibchaWeb/Persistencia/Util/Conexion.php';
+require_once $_SERVER["DOCUMENT_ROOT"] . '/proyectoChibchaWeb/Persistencia/SitioWebDAO.php';
 
 
 class ManejoSitioWeb

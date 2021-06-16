@@ -4,7 +4,7 @@
 require_once ("/home/u999386215/public_html/proyectoLibreria/Persistencia/Util/Conexion.php");
 require_once ("/home/u999386215/public_html/proyectoLibreria/Persistencia/DAO.php");*/
 
-require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Negocio/Tipo_Tarjeta.php';
+require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Negocio/Tipo_tarjeta.php';
 require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Persistencia/Util/Conexion.php';
 require_once ($_SERVER["DOCUMENT_ROOT"]) . '/proyectoChibchaWeb/Persistencia/DAO.php';
 

@@ -3,8 +3,8 @@
 /**
  * Import classes
  */
-
-require_once $_SERVER["DOCUMENT_ROOT"] . '/app/proyectoChibchaWeb/Persistencia/Util/Conexion.php';
+echo $_SERVER["DOCUMENT_ROOT"];
+require_once $_SERVER["DOCUMENT_ROOT"] . '/proyectoChibchaWeb/Persistencia/Util/Conexion.php';
 require_once $_SERVER["DOCUMENT_ROOT"] . '/proyectoChibchaWeb/Persistencia/SitioWebDAO.php';
 
 
